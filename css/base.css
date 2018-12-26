@@ -1,0 +1,22 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: "微软雅黑，平方";
+	font-style: normal;
+	font-weight: normal;
+}
+ul li{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+@font-face {
+  font-family: 'iconfont';  /* project id 974696 */
+  src: url('//at.alicdn.com/t/font_974696_8alagr9n7ho.eot');
+  src: url('//at.alicdn.com/t/font_974696_8alagr9n7ho.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_974696_8alagr9n7ho.woff') format('woff'),
+  url('//at.alicdn.com/t/font_974696_8alagr9n7ho.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_974696_8alagr9n7ho.svg#iconfont') format('svg');
+}
+
